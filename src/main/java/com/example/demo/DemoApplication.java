@@ -14,7 +14,7 @@ public class DemoApplication {
 	}
 	@RequestMapping("/")
 	public String hello() {
-		return "Hello every body";
+		return "Hello every one";
 	}
 
 }
